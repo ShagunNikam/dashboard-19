@@ -1,0 +1,28 @@
+@import '../../../assets/scss/variable';
+@import '../../../assets/scss/common';
+@import '../../../assets/scss/fonts';
+
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: $mild_grey;
+}
+::-moz-placeholder { /* Firefox 19+ */
+    color: $mild_grey;
+}
+:-ms-input-placeholder { /* IE 10+ */
+    color: $mild_grey;
+}
+:-moz-placeholder { /* Firefox 18- */
+    color: $mild_grey;
+}
+
+.worldmap{
+    padding: 0 10px;
+}
+agm-map {
+    height: 300px;
+}
+
+.text_center{
+    margin-bottom: 20px;
+}

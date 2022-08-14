@@ -1,0 +1,32 @@
+<section class="history">
+    <div class="history_wrapper">
+        <h1 class="text_center">{{title}}</h1>
+        <div class="wrapper">
+            <!-- <span class="total_data"> Active Count </span> -->
+            <div class="filter_wrap">
+                <form action="" >
+                    <input type="text" placeholder="Search" [(ngModel)]="name" name="name">
+                </form>
+                </div>
+            <div class="list_wrapper">
+                <div class="table table_header">
+                    <span class="space">Country</span>
+                    <span class="space right-align">Active</span>
+                    <span class="space right-align">Critical</span>
+                    <span class="space right-align">Recovered</span>
+                    <span class="space right-align">Total</span>
+                </div>
+                <div class="list_content">
+
+                    <div class="table table_data" *ngFor="let list of getData | filter:name" >
+                        <span class="space">{{list.country}}</span>
+                        <span class="space right-align">{{list.cases.active ? list.cases.active : '0' }}</span>
+                        <span class="space right-align">{{list.cases.critical ? list.cases.critical : '0' }}</span>
+                        <span class="space right-align">{{list.cases.recovered ? list.cases.recovered : '0' }}</span>
+                        <span class="space right-align">{{list.cases.total ? list.cases.total : '0' }}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,119 @@
+{
+  "count": 15,
+  "next": "",
+  "previous": "",
+  "results": [
+    {
+      "category" : "fiction",
+      "imgUrl" : "",
+      "title" : "THE OLD MAN AND THE SEA",
+      "author" : "Charles Dickens",
+      "Description" : ""
+    },
+    {
+      "category" : "politics",
+      "imgUrl" : "",
+      "title" : "THE BELIAL STONE",
+      "author" : "R.D Brady",
+      "Description" : ""
+    },
+    {
+      "category" : "fiction",
+      "imgUrl" : "",
+      "title" : "GREAT EXPECTATIONS",
+      "author" : "Charles Dickens",
+      "Description" : ""
+    },
+    {
+      "category" : "philosophy",
+      "imgUrl" : "",
+      "title" : "A CHRISTMAS CAROL",
+      "author" : "Charles Dickens",
+      "Description" : ""
+    },
+    {
+      "category" : "politics",
+      "imgUrl" : "",
+      "title" : "HARRY POTTER AND THE HALF",
+      "author" : "J.K Rowling",
+      "Description" : ""
+    },
+    {
+      "category" : "philosophy",
+      "imgUrl" : "",
+      "title" : "OLIVER TWIST",
+      "author" : "Charles Dickens",
+      "Description" : ""
+    },
+    {
+      "category" : "fiction",
+      "imgUrl" : "",
+      "title" : "THE ADVENTURES OF TOM SAWYER",
+      "author" : "Mark Twain",
+      "Description" : ""
+    },
+    {
+      "category" : "philosophy",
+      "imgUrl" : "",
+      "title" : "PERCY JACKSON AND THE OLYMP",
+      "author" : "Rick Riordan",
+      "Description" : ""
+    },
+    {
+      "category" : "adventure",
+      "imgUrl" : "",
+      "title" : "HARRY POTTER AND THE DEATH",
+      "author" : "J.K Rowling",
+      "Description" : ""
+    },
+    {
+      "category" : "drama",
+      "imgUrl" : "",
+      "title" : "THE BEASTS OF THE BLACK HOLE",
+      "author" : "Paul Parker",
+      "Description" : ""
+    },
+    {
+      "category" : "drama",
+      "imgUrl" : "",
+      "title" : "A TALE OF TWO CITIES",
+      "author" : "Charles Dickens",
+      "Description" : ""
+    },
+    {
+      "category" : "history",
+      "imgUrl" : "",
+      "title" : "THE OLD MAN AND THE SEA",
+      "author" : "Charles Dickens",
+      "Description" : ""
+    },
+    {
+      "category" : "history",
+      "imgUrl" : "",
+      "title" : "THE BELIAL STONE",
+      "author" : "R.D Brady",
+      "Description" : ""
+    },
+    {
+      "category" : "politics",
+      "imgUrl" : "",
+      "title" : "GREAT EXPECTATIONS",
+      "author" : "Charles Dickens",
+      "Description" : ""
+    },
+    {
+      "category" : "drama",
+      "imgUrl" : "",
+      "title" : "A CHRISTMAS CAROL",
+      "author" : "Charles Dickens",
+      "Description" : ""
+    },
+    {
+      "category" : "history",
+      "imgUrl" : "",
+      "title" : "HARRY POTTER AND THE HALF",
+      "author" : "J.K Rowling",
+      "Description" : ""
+    }
+  ]
+}

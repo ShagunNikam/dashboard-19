@@ -1,0 +1,10 @@
+@import './variable';
+
+.greyBg {
+    background: $light_grey;
+    min-height: 100vh;
+}
+
+.text_center{
+    text-align: center;
+}
